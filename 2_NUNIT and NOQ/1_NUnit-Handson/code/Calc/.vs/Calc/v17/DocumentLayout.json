@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Career\\Calc\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Career\\Calc\\CalcLibrary.Tests\\CalcLibrary.Tests\\CalculatorTests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CalcLibrary.Tests\\CalcLibrary.Tests\\CalculatorTests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Career\\Calc\\CalcLibrary.Tests\\CalcLibrary.Tests\\CalcLibrary.Tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CalcLibrary.Tests\\CalcLibrary.Tests\\CalcLibrary.Tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CalcLibrary.Tests.csproj",
+              "DocumentMoniker": "E:\\Career\\Calc\\CalcLibrary.Tests\\CalcLibrary.Tests\\CalcLibrary.Tests.csproj",
+              "RelativeDocumentMoniker": "CalcLibrary.Tests\\CalcLibrary.Tests\\CalcLibrary.Tests.csproj",
+              "ToolTip": "E:\\Career\\Calc\\CalcLibrary.Tests\\CalcLibrary.Tests\\CalcLibrary.Tests.csproj",
+              "RelativeToolTip": "CalcLibrary.Tests\\CalcLibrary.Tests\\CalcLibrary.Tests.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-05T14:15:14.225Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CalculatorTests.cs",
+              "DocumentMoniker": "E:\\Career\\Calc\\CalcLibrary.Tests\\CalcLibrary.Tests\\CalculatorTests.cs",
+              "RelativeDocumentMoniker": "CalcLibrary.Tests\\CalcLibrary.Tests\\CalculatorTests.cs",
+              "ToolTip": "E:\\Career\\Calc\\CalcLibrary.Tests\\CalcLibrary.Tests\\CalculatorTests.cs",
+              "RelativeToolTip": "CalcLibrary.Tests\\CalcLibrary.Tests\\CalculatorTests.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T14:07:40.364Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
